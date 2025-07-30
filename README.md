@@ -21,7 +21,7 @@
 
 | Vorschau                             | Bezeichnung     | Link zum Bild                                       | Prompt                               | Autor (ID) | Autor (Name) |
 |--------------------------------------|-----------------|-----------------------------------------------------|--------------------------------------|------------|--------------|
-| <img src="P_2.2.1.png" width="100"/> | P_2.2.1        | [P_2.2.1.png](https://example.com/P_2.2.1.png)     | Dummy-Prompt für Vorher/Nachher 2.2.1 | U010       | Nina Demo    |
+| <img src="P_2.2.1.png" width="100"/> | Haut        | [P_2.2.1.png]([https://example.com/P_2.2.1.png](https://cdn.midjourney.com/ec33ed6f-fa97-4609-9a8d-db682e277bbc/0_0.png))     | A before and after photo of an russian woman's face with clear skin, showcasing the effect of skincare products on their complexions. The left side shows visible redness from pimples or blemishes, while her right cheek is smooth without any signs of pain or stripes. Her expression looks relaxed yet determined as she emphasizes that each step in taking care for your complexion | 2feef3a5-f7fa-45b6-98cc-d092f951ca05       | u5396298692(https://www.midjourney.com/explore?user_id=2feef3a5-f7fa-45b6-98cc-d092f951ca05)    |
 | <img src="P_2.2.2.png" width="100"/> | P_2.2.2        | [P_2.2.2.png](https://example.com/P_2.2.2.png)     | Dummy-Prompt für Vorher/Nachher 2.2.2 | U011       | Olaf Demo    |
 | <img src="P_2.2.3.png" width="100"/> | P_2.2.3        | [P_2.2.3.png](https://example.com/P_2.2.3.png)     | Dummy-Prompt für Vorher/Nachher 2.2.3 | U012       | Petra Demo   |
 
