@@ -7,7 +7,7 @@
 | <img src="P_5.2.1.png" width="100"/> | Michael Jackson        | [P_5.2.1.png](https://cdn.midjourney.com/6d65fcaf-822d-4e95-b3c6-7db9199956a0/0_0.png)     | An 80-year-old man who looks like Michael Jackson, with wrinkles on his face, long white hair, wearing a white suit, smiling at the camera | 7fe09199-dda6-4251-9ef9-150db5b6ee7f       | [_teamone](https://www.midjourney.com/explore?user_id=7fe09199-dda6-4251-9ef9-150db5b6ee7f)  |
 | <img src="P_5.2.2.png" width="100"/> | Snoop Dogg        | [P_5.2.2.png](https://cdn.midjourney.com/61068d1a-9f32-4687-b3e5-cf3a38c1faf6/0_1.png)     | Snoop Dogg as a nasa astronaut, real portrait | 4230fdde-221a-44bb-b906-1697c6f5eb87       | [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87)  |
 | <img src="P_5.3.1.png" width="100"/> | Queen Elisabeth II     | [P_5.3.1.png](https://cdn.midjourney.com/46235155-d9cd-4f38-8923-c77c4d1d214d/0_0.png)     | Queen Elizabeth drinks beer while riding skateboard in a golden indoors skatepark, surrealistic royality design | 4230fdde-221a-44bb-b906-1697c6f5eb87       | [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87)      |
-| <img src="P_5.3.2.png" width="100"/> | Papst Franziskus        | [P_5.3.2.png](https://example.com/P_5.3.2.png)     | Dummy-Prompt für Karikatur 5.3.2 | U006       | Laura Test     |
+| <img src="P_5.3.2.png" width="100"/> | Papst Franziskus        | [P_5.3.2.png](https://cdn.midjourney.com/d40c9c11-7bff-4670-9418-fbec4249facc/0_3.png)     | Pope Francis putting money inside a washingmachine in 1990s | 4230fdde-221a-44bb-b906-1697c6f5eb87       | [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87)     |
 
 ## Produktbilder
 
