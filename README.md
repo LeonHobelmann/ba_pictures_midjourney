@@ -13,7 +13,7 @@
 
 | Vorschau                             | Bezeichnung     | Link zum Bild                                       | Prompt                           | Autor (ID) | Autor (Name)  |
 |--------------------------------------|-----------------|-----------------------------------------------------|----------------------------------|------------|---------------|
-| <img src="P_2.1.1.png" width="100"/> | P_2.1.1        | [P_2.1.1.png](https://example.com/P_2.1.1.png)     | Dummy-Prompt für Produkt 2.1.1   | U007       | Karl Beispiel |
+| <img src="P_2.1.1.png" width="100"/> | Eiscreme        | [P_2.1.1.png]([https://example.com/P_2.1.1.png](https://cdn.midjourney.com/4115c86d-296e-4934-88e0-962916897c8b/0_0.png))     | poster with a homemade ice cream in the center with 3 scoops of ice cream on the cone, on a light blue background with splashes of ice cream effect   | 5b495e28-7a6c-46ad-af0a-cc846b9ca4d8       | [u1453674469](https://www.midjourney.com/explore?user_id=5b495e28-7a6c-46ad-af0a-cc846b9ca4d8) |
 | <img src="P_2.1.2.png" width="100"/> | P_2.1.2        | [P_2.1.2.png](https://example.com/P_2.1.2.png)     | Dummy-Prompt für Produkt 2.1.2   | U008       | Lisa Beispiel |
 | <img src="P_2.1.3.png" width="100"/> | P_2.1.3        | [P_2.1.3.png](https://example.com/P_2.1.3.png)     | Dummy-Prompt für Produkt 2.1.3   | U009       | Tom Beispiel  |
 
