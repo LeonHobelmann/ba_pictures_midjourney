@@ -15,7 +15,7 @@
 |--------------------------------------|-----------------|-----------------------------------------------------|----------------------------------|------------|---------------|
 | <img src="P_2.1.1.png" width="100"/> | Eiscreme        | [P_2.1.1.png]([https://example.com/P_2.1.1.png](https://cdn.midjourney.com/4115c86d-296e-4934-88e0-962916897c8b/0_0.png))     | poster with a homemade ice cream in the center with 3 scoops of ice cream on the cone, on a light blue background with splashes of ice cream effect   | 5b495e28-7a6c-46ad-af0a-cc846b9ca4d8       | [u1453674469](https://www.midjourney.com/explore?user_id=5b495e28-7a6c-46ad-af0a-cc846b9ca4d8) |
 | <img src="P_2.1.2.png" width="100"/> | P_2.1.2        | [P_2.1.2.png](https://example.com/P_2.1.2.png)     | Dummy-Prompt für Produkt 2.1.2   | U008       | Lisa Beispiel |
-| <img src="P_2.1.3.png" width="100"/> | P_2.1.3        | [P_2.1.3.png](https://example.com/P_2.1.3.png)     | Dummy-Prompt für Produkt 2.1.3   | U009       | Tom Beispiel  |
+| <img src="P_2.1.3.png" width="100"/> | Eistee        | [P_2.1.3.png](https://cdn.midjourney.com/c6bcbd7d-2be2-4f92-bfca-5495cc644c11/0_3.png)     | High definition photographic image, orange gradient background, with a bottle of orange soda on the screen, tilted and placed. Several small oranges are suspended next to the orange soda, hanging in the center of the picture. They are impacted by water, and the splashing water is dazzling, with visual impact   | 171efa73-cea4-4a3f-a58a-43ce2569cdb5       | [gdxaje46380y](https://www.midjourney.com/explore?user_id=171efa73-cea4-4a3f-a58a-43ce2569cdb5) |
 
 ## Vorher‑Nachher Bilder
 
