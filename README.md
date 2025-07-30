@@ -29,7 +29,7 @@
 
 | Vorschau                             | Bezeichnung     | Link zum Bild                                       | Prompt                          | Autor (ID) | Autor (Name)   |
 |--------------------------------------|-----------------|-----------------------------------------------------|---------------------------------|------------|----------------|
-| <img src="P_3.1.1.png" width="100"/> | P_3.1.1        | [P_3.1.1.png](https://example.com/P_3.1.1.png)     | Dummy-Prompt für Gewalt 3.1.1   | U013       | Ben Beispiel   |
+| <img src="P_3.1.1.png" width="100"/> | zerstörte Stadt       | [P_3.1.1.png](https://cdn.midjourney.com/58bff52f-8043-4b94-b167-da5c24948dd1/0_0.png)     | a massive city which is destroyed from war. The buildings are destroyed and their are small fires amongst the rubble. Make hyper-realistic adding extensive detail.   | 9dca8683-5ecf-4f0f-bf3b-6e8ed254f85b       | [quill9566](https://www.midjourney.com/explore?user_id=9dca8683-5ecf-4f0f-bf3b-6e8ed254f85b)   |
 | <img src="P_3.1.2.png" width="100"/> | P_3.1.2        | [P_3.1.2.png](https://example.com/P_3.1.2.png)     | Dummy-Prompt für Gewalt 3.1.2   | U014       | Eva Beispiel   |
 | <img src="P_3.1.3.png" width="100"/> | P_3.1.3        | [P_3.1.3.png](https://example.com/P_3.1.3.png)     | Dummy-Prompt für Gewalt 3.1.3   | U015       | Dirk Beispiel  |
 | <img src="P_3.2.1.png" width="100"/> | P_3.2.1        | [P_3.2.1.png](https://example.com/P_3.2.1.png)     | Dummy-Prompt für Gewalt 3.2.1   | U016       | Fiona Beispiel |
